@@ -3,6 +3,7 @@ A Bless Network é uma plataforma revolucionária que permite transformar o pode
 🌍 O Que é a Bless Network?
 
 A Bless Network funciona como o primeiro computador compartilhado global. Ela utiliza dispositivos como laptops e desktops, alocando tarefas computacionais que aproveitam recursos ociosos de processamento. O sistema é ideal para quem quer participar de projetos inovadores e colaborar com a evolução da tecnologia, como cálculos científicos, modelagem de dados e muito mais.
+
 🚀 Como Funciona?
 
     Instalação Simples
